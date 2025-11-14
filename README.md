@@ -1,4 +1,4 @@
-# 🏛️ Dr. Wiliames - Site Institucional
+# 🏛️ Advocacia - Site Institucional
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ## 📋 Sobre o Projeto
 
-Site institucional moderno e responsivo para o escritório de advocacia do **Dr. Wiliames**, desenvolvido com HTML5, CSS3 e JavaScript puro. O site apresenta uma interface elegante e profissional, destacando os serviços jurídicos oferecidos e facilitando o contato com clientes. Com mais de 15 anos de experiência, o Dr. Wiliames oferece soluções jurídicas personalizadas com ética, compromisso e resultados excepcionais.
+Site institucional moderno e responsivo desenvolvido para escritórios de advocacia, criado com HTML5, CSS3 e JavaScript puro (Vanilla JS). Esta página apresenta uma interface elegante e profissional, com design moderno que destaca os serviços jurídicos oferecidos e facilita o contato com clientes. O projeto foi desenvolvido com foco em performance, responsividade e experiência do usuário, utilizando apenas tecnologias nativas do navegador sem dependências de frameworks externos.
 
 ## ✨ Funcionalidades
 
@@ -134,10 +134,10 @@ Nenhum pré-requisito é necessário! O site é uma aplicação estática que po
 - Animações de fade-up ao scroll
 
 ### 👤 Sobre
-- Informações sobre o advogado
-- Credenciais e formação acadêmica
-- Estatísticas animadas (anos de experiência, casos, satisfação)
-- Layout em grid responsivo
+- Seção dedicada para apresentar informações profissionais
+- Exibição de credenciais e formação acadêmica
+- Estatísticas animadas com contadores dinâmicos
+- Layout em grid responsivo com imagem de perfil
 
 ### 🔄 Processo (Como Trabalhamos)
 - 4 etapas do processo de trabalho
@@ -239,7 +239,6 @@ Este projeto é propriedade do escritório Dr. Wiliames - Advocacia e Consultori
 
 - [Font Awesome](https://fontawesome.com/) - Biblioteca de ícones
 - Comunidade open source por inspiração e recursos
-- Todos os clientes que confiaram no trabalho do Dr. Wiliames
 
 ---
 
@@ -248,7 +247,5 @@ Este projeto é propriedade do escritório Dr. Wiliames - Advocacia e Consultori
 **Desenvolvido com ❤️ por Rodrigo G Fernandes**
 
 ⭐ Se este projeto te ajudou, considere dar uma estrela!
-
-© 2024 Dr. Wiliames - Advocacia e Consultoria Jurídica. Todos os direitos reservados.
 
 </div>
