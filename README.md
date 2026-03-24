@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> 🏛️ Advocacia - Site Institucional</h1>
+<h1> 🏛️ Advocacia - Pagina Institucional</h1>
 
 
 ![Imagem](assets/img/adv_1.gif)
